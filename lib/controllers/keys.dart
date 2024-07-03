@@ -1,0 +1,1 @@
+const String WEATHERKEY = "0f261af83cdc5c2d68d099d24c1ccf3e";
